@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Inventor & Pipeline Temp Files
+Temp/
+Input/
+Output/
+*.ipt
+*.log
+*.txt
+*.stl
+*.u3d
+*.tex
+*.aux
+*.out
+!resources/*.ipt  # Sadece resources altındaki örnek ipt dursun
